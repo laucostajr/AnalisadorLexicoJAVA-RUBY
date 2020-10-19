@@ -14,8 +14,8 @@ Características
 O seu criador, Yukihiro Matsumoto, uniu partes das suas linguagens favoritas (Perl, Smalltalk, Eiffel, Ada e Lisp) para formar uma nova linguagem que equilibra a programação funcional com a programação imperativa.
 Ele disse com frequência que está “tentando tornar o Ruby natural, não simples”, de uma forma que reflita a vida. Elaborando sobre isto, acrescenta: 
 
->>>Detalhes do Analisador
->>>Tokens
+Detalhes do Analisador
+Tokens
 
 LineTerminator = \r|\n|\r\n
 InputCharacter = [^\r\n]
